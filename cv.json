@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "José Manuel Rodríguez",
+    "name": "Jose Manuel Rodriguez",
     "label": "Full Stack Developer con más de 10 años de experiencia & Creador de Contenido Tecnológico",
-    "image": "/josemanuel.webp",
+    "imagen": "/avatar.svg",
     "email": "josemanuel@example.com",
-    "phone": "+34 600000000",
+    "phone": "+34 6120231456",
     "url": "https://josemanuel.dev",
     "summary": "+10 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Tecnología y Programación. Vivo en Madrid, España. He trabajado en diferentes entornos: desde start-ups en fase inicial hasta liderar equipos técnicos en empresas consolidadas.",
     "location": {
