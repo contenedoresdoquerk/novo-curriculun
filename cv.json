@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "José Manuel Rodríguez",
+    "label": "Full Stack Developer con más de 10 años de experiencia & Creador de Contenido Tecnológico",
+    "image": "/josemanuel.webp",
+    "email": "josemanuel@example.com",
+    "phone": "+34 600000000",
+    "url": "https://josemanuel.dev",
+    "summary": "+10 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Tecnología y Programación. Vivo en Madrid, España. He trabajado en diferentes entornos: desde start-ups en fase inicial hasta liderar equipos técnicos en empresas consolidadas.",
+    "location": {
+      "address": "",
+      "postalCode": "28001",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "josemanueldev",
+        "url": "https://linkedin.com/in/josemanueldev"
+      },
+      {
+        "network": "X",
+        "username": "josemanueldev",
+        "url": "https://x.com/josemanueldev"
+      },
+      {
+        "network": "GitHub",
+        "username": "josemanueldev",
+        "url": "https://github.com/josemanueldev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "JM Dev Studio",
+      "position": "Divulgador y Formador en Desarrollo Web",
+      "url": "https://twitch.tv/josemanueldev",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "summary": "Creador de contenido sobre programación en español, con una comunidad de más de 500k seguidores entre todas las plataformas. Reconocido por empresas tecnológicas por mi labor educativa y de divulgación.",
+      "highlights": [
+        "Fundé la marca personal y comunidad"
+      ]
+    },
+    {
+      "name": "TechGlobal Solutions",
+      "position": "Lead Frontend Architect",
+      "url": "https://techglobal.com",
+      "startDate": "2015-06-01",
+      "endDate": "2020-12-01",
+      "summary": "Diseñé e implementé una arquitectura moderna basada en microfrontends. Mejoré el rendimiento y los tiempos de entrega de producto, fomentando buenas prácticas y optimizando el flujo de trabajo de desarrollo.",
+      "highlights": [
+        "Migración de monolito a arquitectura modular"
+      ]
+    },
+    {
+      "name": "SoftWeb Labs",
+      "position": "Senior Frontend Developer",
+      "startDate": "2010-03-01",
+      "endDate": "2015-05-01",
+      "summary": "Desarrollé aplicaciones web interactivas para clientes internacionales. Optimicé el rendimiento de aplicaciones y reduje los tiempos de despliegue a la mitad. Colaboré en proyectos innovadores de streaming y medios digitales.",
+      "highlights": [
+        "Implementación de sistemas de CI/CD"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code4Good",
+      "position": "Mentor y Desarrollador Voluntario",
+      "url": "https://code4good.org/",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Mentoría y desarrollo de herramientas para ONGs relacionadas con la educación tecnológica.",
+      "highlights": [
+        "Premio 'Mentor del Año'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Complutense de Madrid",
+      "url": "https://www.ucm.es/",
+      "area": "Ingeniería Informática",
+      "studyType": "Bachelor",
+      "startDate": "2005-01-01",
+      "endDate": "2010-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - SQL Básico",
+        "CS202 - Algoritmos y Estructuras de Datos"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Mejor Proyecto Open Source",
+      "date": "2019-11-01",
+      "awarder": "DevAwards",
+      "summary": "Reconocimiento por el impacto de un proyecto de código abierto en la comunidad."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certified JavaScript Developer",
+      "date": "2021-11-07",
+      "issuer": "TechCert",
+      "url": "https://techcert.com/certificado"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Guía de Desarrollo Web Moderno",
+      "publisher": "TechPress",
+      "releaseDate": "2020-10-01",
+      "url": "https://techpress.com/guia-desarrollo",
+      "summary": "Manual práctico para aprender a desarrollar aplicaciones web con tecnologías modernas."
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Avanzado"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tecnología y Naturaleza",
+      "keywords": [
+        "Desarrollo Sostenible",
+        "Fotografía de Paisajes"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "María López",
+      "reference": "José Manuel es un profesional comprometido, creativo y con gran capacidad de liderazgo técnico."
+    }
+  ],
+  "projects": [
+    {
+      "name": "devChallenges",
+      "isActive": true,
+      "description": "Plataforma de retos de programación para mejorar habilidades de desarrollo web",
+      "highlights": [
+        "Más de 500 retos",
+        "Enfoque práctico"
+      ],
+      "url": "https://devchallenges.dev"
+    },
+    {
+      "name": "CodeFest",
+      "isActive": true,
+      "description": "Concurso online de programación para la comunidad hispanohablante",
+      "highlights": [
+        "+20k participantes",
+        "Multilenguaje"
+      ],
+      "url": "https://codefest.dev"
+    },
+    {
+      "name": "JSPlay",
+      "isActive": true,
+      "description": "Playground online para JavaScript, HTML y CSS",
+      "highlights": [
+        "10k visitas al mes",
+        "Proyectos compartibles"
+      ],
+      "url": "https://jsplay.dev",
+      "github": "https://github.com/josemanueldev/jsplay"
+    },
+    {
+      "name": "TechNotes",
+      "isActive": true,
+      "description": "Blog técnico con artículos y tutoriales sobre desarrollo web",
+      "highlights": [
+        "100% gratuito",
+        "Actualizaciones semanales"
+      ],
+      "url": "https://technotes.dev",
+      "github": "https://github.com/josemanueldev/technotes"
+    },
+    {
+      "name": "JMConf",
+      "description": "Conferencia online sobre programación con charlas de expertos internacionales",
+      "highlights": [
+        "+10k asistentes virtuales",
+        "+30 ponentes"
+      ],
+      "url": "https://jmconf.dev"
+    }
+  ]
+}
